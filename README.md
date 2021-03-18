@@ -1,4 +1,4 @@
-<h1 align="center">Newsquip:iphone:</h1>
+<h1 align="center">Newsquip</h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Built%20using-Android Studio-1f425f.svg">
