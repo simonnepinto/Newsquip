@@ -45,5 +45,5 @@ This command  will copy the entire project to your local environment
 
 
 ## Demo 🛠️
-|<img src="https://user-images.githubusercontent.com/53074235/106244199-97d1e680-6230-11eb-9976-32b5fe09a8cc.png" width="100%"> |<img src="https://user-images.githubusercontent.com/53074235/106244263-ac15e380-6230-11eb-841f-fa14cf2d8528.png" width="100%">|
+|<img src="" width="100%"> |<img src="" width="100%">|
 |:-------------------------:|:-------------------------:|
