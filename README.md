@@ -15,7 +15,7 @@
 
 Newsquip is a news aggregator that highlights and gathers latest news from multiple sources. Stay updated with the events happening around the country from the latest government policies to sports, science, entertainment and tech stories.
 
-The app fetches the recent news from an API and lists them in a Recycler View. It implements the Volley library to send requests to the API through a RequestQueue, and performs image loading and caching using the functionalities of Glide library. 
+The app fetches recent news from an API and lists them in a Recycler View. It implements the Volley library to send requests to the API through a RequestQueue, and performs image loading and caching using the functionalities of Glide library. 
 
 The JSON data obtained from the API is parsed, and the news-image along with the headline and author is displayed. The user can then click on the news they want to read about which opens the article within the app. This is acheived by implementing CustomTabs to allow the user to seamlessly transition between native and web content.
 
